@@ -7,7 +7,8 @@ This is a project to auto-deploy with an ML payload
 
 ![Course1-GCP-CD](https://user-images.githubusercontent.com/58792/107860077-64d04b00-6e0b-11eb-8cf2-7cce40496a46.jpg)
 
-## Four main parts of this simple continuous delivery (CD) project on Google App Engine. These are:
+## Walkthrough of the flask app
+Four main parts of this simple continuous delivery (CD) project on Google App Engine. These are:
 - Flask app: which is the main.py
 - app.yml
 - cloudbuild.yml
